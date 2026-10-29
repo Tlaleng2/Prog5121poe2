@@ -1,0 +1,12 @@
+Message ID: 5bd20f9da4
+Message Number: 1
+Recipient: +27697014624
+Message: welcome to quickchat
+Message Hash: 5B:1:WELCOMEQUICKCHAT
+--------------------
+Message ID: e13eee71c1
+Message Number: 2
+Recipient: +27697014624
+Message: Welcome to quickchat
+Message Hash: E1:2:WELCOMEQUICKCHAT
+--------------------
